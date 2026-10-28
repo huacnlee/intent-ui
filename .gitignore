@@ -1,0 +1,4 @@
+.nsh/
+node_modules/
+dist/
+.DS_Store
