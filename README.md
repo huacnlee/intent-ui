@@ -4,7 +4,7 @@ An implementation of the [Intent design system](https://intentapp.dev/design-sys
 
 The repository also contains a gallery app (`App.tsx`) showing the design system's logo, colors, gradients, typography, iconography, foundations, and components.
 
-![Intent UI gallery running on macOS](docs/macos.png)
+<img width="1312" height="940" alt="image" src="https://github.com/user-attachments/assets/452b3d5a-9b71-4065-99dc-1171d46b737e" />
 
 ```sh
 nsh run --target web     # Open the gallery in a browser
